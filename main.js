@@ -23,7 +23,7 @@ debugger
 		//o mesmo processo da img foi feito porem com o class do HTML no item 
 		$(`
 			<div class="overlay-imagem-link">
-				<a href="${enderecoDaNovaImagem}" target="_blank" title="Ver imagem em tamnho real">
+				<a href="${enderecoDaNovaImagem}" target="_blank" title="Ver imagem em tamanho real">
 					Ver imagem em tamanho real 
 				</a>
 			</div>
